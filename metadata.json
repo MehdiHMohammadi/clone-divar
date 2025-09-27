@@ -1,0 +1,5 @@
+{
+  "name": "Divar Clone",
+  "description": "A simple offline clone of the Divar application, showcasing a list of products with filtering and search capabilities. Built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
